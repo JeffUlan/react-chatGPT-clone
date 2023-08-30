@@ -21,7 +21,7 @@ A conversational AI app inspired by OpenAI's GPT-3 language model, built with Cr
 1. Clone the repository
 
 ```
-git clone https://github.com/dhiant/react-chatGPT-clone.git
+git clone https://github.com/JeffUlan/react-chatGPT-clone.git
 ```
 
 2. Install client dependencies
